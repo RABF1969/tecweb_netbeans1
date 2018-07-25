@@ -9,6 +9,7 @@ package view;
  *
  * @author AntônioFerreira
  // alterado do git
+ * // alterado do netbeans
  */
 public class NewJFrame extends javax.swing.JFrame {
 
